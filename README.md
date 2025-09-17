@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Theofanis!
 
 ## 💻I have a strong interest in writing code that solves problems.
+You can take a look if you like some team projects I have participated in.
 
 ## ⚡I'm always learning.
+Through programming I always try to learn  and develop my technical skills.
 
 ## 💪My goal is to be better every day.
 
