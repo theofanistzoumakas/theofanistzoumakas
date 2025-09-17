@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Theofanis!
+# Hi there 👋 I'm Theofanis!
 
-# 💻I have a strong interest in writing code that solves problems.
+## 💻I have a strong interest in writing code that solves problems.
 
-# ⚡I'm always learning.
+## ⚡I'm always learning.
 
-# 💪My goal is to be better every day.
+## 💪My goal is to be better every day.
 
 <!--
 **theofanistzoumakas/theofanistzoumakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
