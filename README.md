@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Theofanis!
 
 ## 💻I have a strong interest in writing code that solves problems.
-With experience in Web, Desktop and Mobile application development, I have a passion for code quality.
+With experience in Web, Desktop and Mobile application development, as well as Data Science projects, I have a passion for code quality.
 You can take a look if you like on some academic personal or team projects I have participated in.
 
 ## ⚡I'm always learning.
