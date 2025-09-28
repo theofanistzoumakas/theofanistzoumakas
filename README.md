@@ -7,7 +7,7 @@ You can take a look if you like on some academic personal or team projects I hav
 ## ⚡I'm always learning.
 Through programming I always try to learn and to develop my technical skills.
 
-##⚙️ Technologies
+## ⚙️ Technologies
  - Languages: Java, C#, Python, Javascript, PostgreSQL, MySQL, HTML, XAML, XML
  - Frameworks: Spring, Android SDK, .NET, WinAppSDK, ASP.NET
  - IDEs and Editors: IntelliJ IDEA, Visual Studio, Eclipse, Pycharm, Unity
