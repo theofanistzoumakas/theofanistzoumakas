@@ -12,4 +12,9 @@ Through programming I always try to learn and to develop my technical skills.
  - Frameworks: Spring, Android SDK, .NET, WinAppSDK, ASP.NET
  - IDEs and Editors: IntelliJ IDEA, Visual Studio, Eclipse, Pycharm, Unity
 
+## 🎯Current focus
+ - Deeping Software Engineering practices: clean code, scalability, software architecture, software principles, design patterns.
+ - Developing Software Development skills: building functional software.
+ - Exploring Data Science: data analysis, machine learning.
+
 ## 💪My goal is to be better every day.
